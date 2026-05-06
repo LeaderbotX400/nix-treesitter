@@ -222,10 +222,6 @@
       url = "github:c3lang/tree-sitter-c3";
       flake = false;
     };
-    tree-sitter-ca65 = {
-      url = "github:babasbot/tree-sitter-ca65";
-      flake = false;
-    };
     tree-sitter-cabal = {
       url = "github:thomasvergne/tree-sitter-cabal";
       flake = false;
